@@ -1,6 +1,7 @@
 # VBA_challenge
 Module 2 Challenge
 
+## Output for first worksheet with workbook summary table
 ![analysis_simple](images/picture1.png)
 ## Stock Analyzer
 This project aims to analyze multiple stocks each year on multiple EXCEL worksheets to find each unique stock's annual outcomes of yearly change (with cell color green or red for positive or negative values), percent change, and total volume traded. Additionally, the project identifies the stocks with the greatest percent change as well as the stock with the greatest total volume traded. 
